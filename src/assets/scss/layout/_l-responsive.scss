@@ -1,0 +1,32 @@
+// Small devices (landscape phones, 576px and up)
+@media (max-width: 576px) {
+  .modal-container.profile {
+    width: 100%!important;
+  }
+}
+
+@media (min-width: 576px) {
+}
+
+
+@media (max-width: 768px) {
+  .modal-container.profile {
+    width: 400px!important;
+    padding: 20px 40px!important;
+  }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+
+}

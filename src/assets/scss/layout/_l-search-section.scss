@@ -1,0 +1,21 @@
+@import '../base/colors';
+
+.search-section {
+  color: white;
+  margin-bottom: 90px;
+}
+
+.search-section .jumbotron {
+  background-image: url("../img/search-section-cover.jpg");
+  margin: 0;
+}
+
+.search-section h2 {
+  color: white;
+  font-size: 40px;
+  text-shadow: 0 0 4px #000000;
+}
+
+.search-section p {
+  font-size: 17px;
+}

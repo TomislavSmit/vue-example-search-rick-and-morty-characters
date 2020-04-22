@@ -1,0 +1,30 @@
+@import "../base/colors";
+
+.btn-primary {
+  border: none!important;
+  background-color: $primary-color!important;
+}
+
+.btn-search {
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  right: 15px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.btn-magnifier-icon {
+  width: 20px;
+  height: 20px;
+  margin: 8px;
+  background-image: url("../img/search-icon.svg");
+}
+
+.btn-close-icon {
+  width: 14px;
+  height: 14px;
+  margin: 12px;
+  opacity: 0.6;
+  background-image: url("../img/close-icon.png");
+}
